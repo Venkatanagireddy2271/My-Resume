@@ -6,7 +6,7 @@ Welcome to the repository for my personal portfolio website! This platform showc
 
 ## 🚀 Live Demo
 
-🔗 **[View Portfolio Website](https://github.com/nagi2271-a11y)** *(Replace with your actual GitHub Pages or Vercel URL)*
+🔗 **[View Portfolio Website] https://github.com/Venkatanagireddy2271
 
 ---
 
@@ -60,5 +60,5 @@ Welcome to the repository for my personal portfolio website! This platform showc
 
 * **Email:** [nagi2271@gmail.com](mailto:nagi2271@gmail.com)[cite: 1]
 * **LinkedIn:** [linkedin.com/in/nagi-reddy-9b27a6374](https://linkedin.com/in/nagi-reddy-9b27a6374)[cite: 1]
-* **GitHub:** 
+* **GitHub:**  [https://github.com/Venkatanagireddy2271]
 * **Location:** Tanuku, Andhra Pradesh, India[cite: 1]
